@@ -15,7 +15,8 @@ I am always curious about new technologies and follow blogposts on Medium and Fr
 I try to constantly update myself with such technologies. 
 
 <b>- 🔭 Currently Working on</b>
-A weekend project for In depth understanding of Django
+
+<ul><li>A weekend project for In depth understanding of Django</ul>
 <i>I will be updating it here after completion </i>
 
 <i>- - 👯<b>also,</b></i> I am looking for some guidance on how to grow in the feild of AI as I see myself following such path. <br><hr>
