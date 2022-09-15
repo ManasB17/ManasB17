@@ -11,7 +11,7 @@ A big fan of Artificial intelligence - Machine Learning 🧑‍💻
 <li>more on Django
 <li>Practicing Data Structure and Algorithms
 </ul>
-I am always curious about new technologies and follow blogposts on Medium and Freecodecamp News. 
+I am always curious about new technologies and I follow blogposts on Medium and Freecodecamp News. 
 I try to constantly update myself with such technologies. 
 
 <b>- 🔭 Currently Working on</b>
