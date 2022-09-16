@@ -19,7 +19,7 @@ I try to constantly update myself with such technologies.
 <ul><li>A weekend project for In depth understanding of Django</ul>
 <i>I will be updating it here after completion </i>
 
-<i>- - 👯<b>also,</b></i> I am looking for some guidance on how to grow in the feild of AI as I see myself following such path. <br><hr>
+<i>- - 👯<b>also,</b></i> I am looking for some guidance on how to grow in the field of AI as I see myself following such path. <br><hr>
 
 - 📫 How to reach me:
     <ul><li><B><img src="https://img.icons8.com/color/344/twitter--v1.png" height = 15px width=15px>Twitter: </b><a href="https://twitter.com/Manas_0101">@Manas_0101</a>
