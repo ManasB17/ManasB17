@@ -28,9 +28,9 @@ I try to constantly update myself with such technologies.
     <li><b><img src="https://img.icons8.com/fluency/344/facebook-new.png" height=20px width=20px>Facebook:</b> <a href ="https://www.facebook.com/manash.17/">Bhattarai Manas</a>
 <hr>
 
-      <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!--       <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
       
-      <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="manas-bhattarai-10a988192" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/manas-bhattarai-10a988192?trk=profile-badge">Manas Bhattarai</a></div>
+      <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="manas-bhattarai-10a988192" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/manas-bhattarai-10a988192?trk=profile-badge">Manas Bhattarai</a></div> -->
               
 <!--
 **ManasB17/ManasB17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
