@@ -1,12 +1,10 @@
 ### Hey there👋, Nice seeing you!<hr>
 
 ## ✨Here is a little about me!
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="manas-bhattarai-10a988192" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/manas-bhattarai-10a988192?trk=profile-badge">Manas Bhattarai</a></div>
               
 I'm Manas Bhattarai!  
 A big fan of Artificial intelligence - Machine Learning 🧑‍💻
-<p align="center"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-programmer-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="Avatar" width= 200px height= 200px></p>
+<!-- <p align="center"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-programmer-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="Avatar" width= 200px height= 200px></p> -->
 
 <b>💻<i>- Currently:</i> I am learning</b> <ul>
 <li>more on Advanced Computer vision
