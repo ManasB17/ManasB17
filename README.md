@@ -1,4 +1,4 @@
-### Hey there👋, Nice seeing you!<hr>   <right>![GitHub followers](https://img.shields.io/github/followers/ManasB17?style=social) https://img.shields.io/github/watchers/ManasB17/ManasB17?style=social</right>
+### Hey there👋, Nice seeing you!<hr>   <right>![GitHub followers](https://img.shields.io/github/followers/ManasB17?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/ManasB17/ManasB17?style=social)</right>
 
 ## ✨Here is a little about me!
               
