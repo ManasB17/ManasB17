@@ -16,7 +16,7 @@ I try to constantly update myself with such technologies.
 
 <b>- 🔭 Currently Working on</b>
 
-<ul><li>A weekend project for In depth understanding of Django</ul>
+<ul><li>Simple Flask application for personal profile</li></ul>
 <i>I will be updating it here after completion </i>
 
 <i>- - 👯<b>also,</b></i> I am looking for some guidance on how to grow in the field of AI as I see myself following such path. <br><hr>
