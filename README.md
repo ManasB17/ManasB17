@@ -4,7 +4,6 @@
               
 I'm Manas Bhattarai!  
 Machine Learning Engineer at TAI 🧑‍💻
-<!-- <p align="center"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-programmer-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="Avatar" width= 200px height= 200px></p> -->
 
 **💻Currently:</i> I am learning**
 - Deep Reinforcement Learning
@@ -13,38 +12,20 @@ Machine Learning Engineer at TAI 🧑‍💻
 - Prompt Engineering for better generation 
 
 
-I am always curious about new technologies and I follow blogposts on Medium and Freecodecamp News. 
-I try to constantly update myself with such technologies. 
+I am always curious about new technologies and I follow newsletters related to latest papers on LLMs. 
+I try to constantly update myself with technologies. 
 
 <b>- 🔭 Currently Working on</b>
 
-<ul><li>Simple Flask application for personal profile</li></ul>
-<i>I will be updating it here after completion </i>
+- Researching on How to optimize LLMs knowledge generation.
+- Researching on How to improve Multilingual Capability in LLMs.
 
-<i>- - 👯<b>also,</b></i> I am looking for some guidance on how to grow in the field of AI as I see myself following such path. <br><hr>
 
+---------------------------
 - 📫 How to reach me:
     <ul><li><B><img src="https://img.icons8.com/color/344/twitter--v1.png" height = 15px width=15px>Twitter: </b><a href="https://twitter.com/Manas_0101">@Manas_0101</a>
     <li><b>📧Email:</b> bhattaraimanas@gmail.com
     <li><b><img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height= 20px width= 20px>Linkedin:</b> <a href ="https://www.linkedin.com/in/manas-bhattarai-10a988192/">Manas Bhattarai</a>
     <li><b><img src="https://img.icons8.com/fluency/344/facebook-new.png" height=20px width=20px>Facebook:</b> <a href ="https://www.facebook.com/manash.17/">Bhattarai Manas</a>
-<hr>
 
-<!--       <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-      
-      <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="manas-bhattarai-10a988192" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/manas-bhattarai-10a988192?trk=profile-badge">Manas Bhattarai</a></div> -->
-              
-<!--
-**ManasB17/ManasB17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ------------------
