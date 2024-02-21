@@ -3,22 +3,36 @@
 ## ✨Here is a little about me!
               
 I'm Manas Bhattarai!  
-Machine Learning Engineer at TAI 🧑‍💻
+Machine Learning Engineer 🧑‍💻 with 1 year of experience.
+
+I have **worked on**:
+- Resaerch of various open-source foundational model to check feasibility for different downstream tasks.
+- Research of training process which are efficient and with low computation cost.
+- Further investigate on pre-training and fine-tuning techniques like DAPT(Domain Adaptive Pre-Trainig) and PEFT(Parameter Efficient Fine-Tuning) as a follow through of previous research.
+- Research on Reinforcement Learning from human Feedback(RLHF).
+- Research on popular LLM dataset to understand the structure and how can it be created
+- Machine Experiment of techniques like DAPT and PEFT to draw conclusions.
+- Researched and performed Prompt Engineering Techniques for better content generation.
+- Researched and performed RAG to generate more accurate results.
+- Research various benchmarks to perform evaluation. 
 
 **💻Currently:</i> I am learning**
 - Deep Reinforcement Learning
 - Reinforcement Learning from human Feedback(RLHF)
 - Retrival Augment Generation in LLMs
-- Prompt Engineering for better generation 
+- Handling Large context in LLMs
+- Prompt Engineering.
 
+---
+I try to update myself with latest advancement in the field of AI. Currently I am following advancement in Large Language Models(LLMs) through various research papers and newsletters.
 
-I am always curious about new technologies and I follow newsletters related to latest papers on LLMs. 
-I try to constantly update myself with technologies. 
+---
 
 **- 🔭 Currently Working on**
 
 - Researching on How to optimize LLMs knowledge generation.
 - Researching on How to improve Multilingual Capability in LLMs.
+- Researching on handling context lengths in an LLM.
 
 ---------------------------
 ### 📫 How to reach me:
