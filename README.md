@@ -5,7 +5,7 @@
 I'm Manas Bhattarai!  
 Machine Learning Engineer 🧑‍💻 with 1 year of experience.
 
-I have **worked on**:
+I have **worked on** 👨‍💻:
 - Resaerch of various open-source foundational model to check feasibility for different downstream tasks.
 - Research of training process which are efficient and with low computation cost.
 - Further investigate on pre-training and fine-tuning techniques like DAPT(Domain Adaptive Pre-Trainig) and PEFT(Parameter Efficient Fine-Tuning) as a follow through of previous research.
@@ -16,7 +16,7 @@ I have **worked on**:
 - Researched and performed RAG to generate more accurate results.
 - Research various benchmarks to perform evaluation. 
 
-**💻Currently:</i> I am learning**
+**💻Currently:</i> I am learning **
 - Deep Reinforcement Learning
 - Reinforcement Learning from human Feedback(RLHF)
 - Retrival Augment Generation in LLMs
