@@ -10,13 +10,13 @@ I have **worked on** 👨‍💻:
 - Research of training process which are efficient and with low computation cost.
 - Further investigate on pre-training and fine-tuning techniques like DAPT(Domain Adaptive Pre-Trainig) and PEFT(Parameter Efficient Fine-Tuning) as a follow through of previous research.
 - Research on Reinforcement Learning from human Feedback(RLHF).
-- Research on popular LLM dataset to understand the structure and how can it be created
+- Research on popular Opensource LLM dataset to understand the structure and how can it be created
 - Machine Experiment of techniques like DAPT and PEFT to draw conclusions.
-- Researched and performed Prompt Engineering Techniques for better content generation.
-- Researched and performed RAG to generate more accurate results.
+- Performed Prompt Engineering Techniques for better content generation.
+- Performed RAG to generate more accurate results.
 - Research various benchmarks to perform evaluation. 
 
-**💻Currently:</i> I am learning **
+**💻Currently: I am learning**
 - Deep Reinforcement Learning
 - Reinforcement Learning from human Feedback(RLHF)
 - Retrival Augment Generation in LLMs
