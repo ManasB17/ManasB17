@@ -3,7 +3,7 @@
 ## ✨Here is a little about me!
               
 I'm Manas Bhattarai!  
-Machine Learning Engineer 🧑‍💻 with 1 year of experience.
+Machine Learning Engineer 🧑‍💻 with 3 year of experience.
 
 I have **worked on** 👨‍💻:
 - Resaerch of various open-source foundational model to check feasibility for different downstream tasks.
