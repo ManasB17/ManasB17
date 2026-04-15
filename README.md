@@ -1,5 +1,5 @@
 ### Hey 👋,<hr>
-<div align="right">
+<div align="left">
   <img src="https://img.shields.io/github/followers/ManasB17?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/watchers/ManasB17/ManasB17?style=social" alt="GitHub watchers" />
 </div>
@@ -26,8 +26,7 @@ I try to constantly update myself with the latest advancements in AI. Currently,
 ---
 
 ### 📫 Let's Connect!
-  - <img src="https://img.icons8.com/color/344/twitter--v1.png" height="15px" width="15px"> **Twitter:** <a href="https://twitter.com/Manas_0101">@Manas_0101</a>
+  - <img src="https://img.icons8.com/color/344/twitter--v1.png" height="15px" width="15px">
   - 📧 **Email:** bhattaraimanas@gmail.com
   - <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="20px" width="20px"> **LinkedIn:** <a href="https://www.linkedin.com/in/manas-bhattarai-10a988192/">Manas Bhattarai</a>
-  - <img src="https://img.icons8.com/fluency/344/facebook-new.png" height="20px" width="20px"> **Facebook:** <a href="https://www.facebook.com/manash.17/">Bhattarai Manas</a>
 ------------------
