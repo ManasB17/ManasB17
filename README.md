@@ -26,7 +26,6 @@ I try to constantly update myself with the latest advancements in AI. Currently,
 ---
 
 ### 📫 Let's Connect!
-  - <img src="https://img.icons8.com/color/344/twitter--v1.png" height="15px" width="15px">
   - 📧 **Email:** bhattaraimanas@gmail.com
   - <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="20px" width="20px"> **LinkedIn:** <a href="https://www.linkedin.com/in/manas-bhattarai-10a988192/">Manas Bhattarai</a>
 ------------------
