@@ -17,15 +17,16 @@ Machine Learning Engineer 🧑‍💻 with over 3 years of experience specializi
 
 **🌱 Currently exploring & focused on:**
 - Deepening my cloud infrastructure expertise by preparing for the **AWS Machine Learning Certification**, actively mapping out SageMaker and Bedrock architectures using Excalidraw for visual documentation.
-- Advancing my academic foundation and preparing for a graduate Master's degree program (target Fall 2027 intake).
 - Optimizing latency and hardware utilization for generative models deployed in resource-constrained environments.
 
 ---
-I try to constantly update myself with the latest advancements in AI. Currently, I am highly focused on stateful agentic workflows, multi-modal OCR extraction, and efficient LLM deployment techniques like LoRA.
+I try to constantly update myself with the latest advancements in AI. Currently, I am highly focused on stateful agentic workflows, multi-modal OCR extraction, and efficient LLM deployment techniques.
 
 ---
 
 ### 📫 Let's Connect!
   - 📧 **Email:** bhattaraimanas@gmail.com
   - <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="20px" width="20px"> **LinkedIn:** <a href="https://www.linkedin.com/in/manas-bhattarai-10a988192/">Manas Bhattarai</a>
+
+Checkout my spece at: manas-bhattarai.com.np
 ------------------
