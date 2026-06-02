@@ -28,6 +28,6 @@ I try to constantly update myself with the latest advancements in AI. Currently,
   - 📧 **Email:** bhattaraimanas@gmail.com
   - <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="20px" width="20px"> **LinkedIn:** <a href="https://www.linkedin.com/in/manas-bhattarai-10a988192/">Manas Bhattarai</a>
 
-Checkout my spece at: [Space](www.manas-bhattarai.com.np)
+Checkout my spece at: www.manas-bhattarai.com.np
 
 ------------------
