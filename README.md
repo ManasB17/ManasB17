@@ -12,9 +12,9 @@
 
 ## 🌾 About Me
 
-I'm a **Python Developer and Machine Learning Engineer** based in Kathmandu, Nepal.
+I'm a **Machine Learning Engineer** based in Kathmandu, Nepal.
 
-I enjoy building useful software, exploring AI, and turning everyday problems into products. Most of my work sits at the intersection of machine learning, backend engineering, retrieval systems, computer vision, and agentic workflows.
+I enjoy building useful software, adding AI touch to my work, and turning everyday problems into products. Most of my work sits at the intersection of machine learning, backend engineering, retrieval systems, computer vision, and agentic workflows.
 
 Currently building and optimizing AI-driven systems at **Outcode Software**, while spending my free time experimenting with side projects, documenting ideas, traveling, and learning how great products are built.
 
@@ -40,9 +40,9 @@ I rely heavily on visual thinking and note-taking to map out systems before writ
 | Skill Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | Python, SQL, JavaScript |
-| **Backend** | FastAPI, Flask, Docker |
+| **Backend** | FastAPI, Flask, Docker, Django |
 | **Cloud & Infrastructure** | AWS (SageMaker, Bedrock, Glue, EMR) |
-| **AI / ML** | LLMs, RAG, Agentic Systems, Diffusion Models |
+| **AI / ML** | LLMs, RAG, Agentic Systems, Diffusion Models, Computer Vision |
 | **Data & Search** | PostgreSQL, MySQL, FAISS |
 | **Visual Thinking** | Excalidraw, Obsidian |
 | **Currently Exploring** | Generative Audio, Product Design, Production AI Systems |
