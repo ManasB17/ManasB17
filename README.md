@@ -1,6 +1,6 @@
 <!-- Farm Life Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Manas%20Bhattarai&fontSize=60&fontAlignY=35&desc=Building%20Products%20%E2%80%A2%20Exploring%20AI%20%E2%80%A2%20Collecting%20Stories&descAlignY=55&descAlign=50" alt="Header Artwork" />
+  <img src="https://github.com/user-attachments/assets/ee68d3db-1a7b-4050-842d-108b238cbdd4" width="100%" alt="Manas Bhattarai - Pixel Art Banner" style="border-radius: 10px; border: 4px solid #8B4513;"/>
 </div>
 
 ### 🌱 Building useful things, one season at a time.
