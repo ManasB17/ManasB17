@@ -1,6 +1,6 @@
 <!-- Farm Life Banner -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ae2c643c-f1af-40da-b6a4-c99927ee87e5" width="100%" alt="Manas Bhattarai - Pixel Art Banner" style="border-radius: 10px; border: 4px solid #8B4513;"/>
+  <img src="https://github.com/user-attachments/assets/0cf922f0-1a2e-46fd-b0e7-612276d7e331" width="100%" alt="Manas Bhattarai - Pixel Art Banner" style="border-radius: 10px; border: 4px solid #8B4513;"/>
 </div>
 
 ### 🌱 Building useful things, one season at a time.
