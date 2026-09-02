@@ -47,6 +47,13 @@ I'm particularly drawn to products born from real experiences and everyday frust
     <td>📓</td>
     <td><b>Smart Journal</b> — Localized RAG for semantic memory retrieval — "chat with your past" — powered by Mistral OCR.</td>
   </tr>
+  <tr>
+    <td>📡</td>
+    <td>
+      <b>Suhayo Agent Hub</b> — A local, owner-controlled command center for coding agents: one shared task history across a terminal and web view, so Claude Code, Codex, and other CLI agents can hand off work without re-explaining context. Agents stay plan-only/read-only until the owner approves an exact scope — no silent implementation.<br>
+      🔗 <a href="https://github.com/ManasB17/suhayo-agent-hub">source</a>
+    </td>
+  </tr>
 </table>
 
 ## 🧰 Workshop & Toolbelt
@@ -97,11 +104,7 @@ When I'm not building software, you'll usually find me somewhere collecting stor
     <td>🌊 Equally happy in the mountains or near a quiet beach</td>
   </tr>
   <tr>
-    <td>⚽ Playing futsal and following football</td>
-    <td>⚪ Real Madrid supporter, lifelong Cristiano Ronaldo fan</td>
-  </tr>
-  <tr>
-    <td>🏊 Swimming, running, and hiking</td>
+    <td>🏊 Swimming, running, hiking, and futsal</td>
     <td>🎸 Playing guitar when life needs a slower rhythm</td>
   </tr>
   <tr>
