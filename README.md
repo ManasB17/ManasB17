@@ -74,28 +74,17 @@ I rely heavily on visual thinking and note-taking to map out systems before writ
 *A small snapshot of the work happening behind the scenes.*
 
 <div align="center">
-  <a href="https://github.com/ManasB17">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasB17&bg_color=ffffff&color=5B8A72&line=5B8A72&point=7DCEA0&hide_border=true" alt="Manas's Activity Graph" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManasB17&show_icons=true&theme=transparent&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasB17&layout=compact&theme=transparent&hide_border=true" width="48%" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManasB17/ManasB17/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManasB17/ManasB17/output/github-contribution-grid-snake.svg" />
+    <img alt="Manas's contribution snake" src="https://raw.githubusercontent.com/ManasB17/ManasB17/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ManasB17&theme=transparent&hide_border=true&background=00000000&ring=5B8A72&fire=7DCEA0&currStreakLabel=5B8A72" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManasB17&theme=gruvbox&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </div>
 
 ## 🌲 Away From The Keyboard
