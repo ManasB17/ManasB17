@@ -3,49 +3,71 @@
   <img src="https://github.com/user-attachments/assets/0cf922f0-1a2e-46fd-b0e7-612276d7e331" width="100%" alt="Manas Bhattarai - Pixel Art Banner" style="border-radius: 10px; border: 4px solid #8B4513;"/>
 </div>
 
-### 🌱 Building useful things, one season at a time.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B8A72&center=true&vCenter=true&width=560&lines=Building+useful+things%2C+one+season+at+a+time.;Machine+Learning+Engineer+%40+Outcode+Software;Turning+everyday+frustrations+into+products.;Currently+tending+to+RAG%2C+agents+%26+CV." alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ManasB17&label=Profile%20Views&color=7DCEA0&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ManasB17?style=social" alt="GitHub followers" />
 </div>
 
+<br>
+
 ## 🌾 About Me
 
-I'm a **Machine Learning Engineer** based in Kathmandu, Nepal.
+|  |  |
+| :--- | :--- |
+| 🌍 **Based in** | Kathmandu, Nepal |
+| 🏢 **Currently at** | [Outcode Software](https://outcode.io) — building & optimizing AI-driven systems |
+| 🔭 **Focus** | ML, backend engineering, retrieval systems, computer vision, agentic workflows |
+| 🌱 **Off the clock** | Side projects, documenting ideas, traveling, learning how great products are built |
 
-I enjoy building useful software, adding AI touch to my work, and turning everyday problems into products. Most of my work sits at the intersection of machine learning, backend engineering, retrieval systems, computer vision, and agentic workflows.
-
-Currently building and optimizing AI-driven systems at **Outcode Software**, while spending my free time experimenting with side projects, documenting ideas, traveling, and learning how great products are built.
-
-I'm particularly drawn to products born from real experiences and everyday frustrations—the kind of ideas that quietly make life a little easier.
+I'm particularly drawn to products born from real experiences and everyday frustrations — the kind of ideas that quietly make life a little easier.
 
 ## 🌱 What I'm Growing This Season
 
-* **🧾 8bitSplit** — A lightweight bill-splitting app inspired by one too many dinners, trips, and group outings that ended with everyone opening calculators and arguing over who owed what. No paywalls, no unnecessary complexity, and no invasive data collection—just split the bill and get back to enjoying the moment.  
-  🔗 https://fairspl.sbs/
-
-* **📓 Smart Journal** — Exploring semantic memory systems powered by RAG and OCR, making personal notes, journals, and thoughts searchable and conversational.
-
-* **👕 Virtual Try-On Research** — Researching practical approaches for production-ready virtual try-on systems. Exploring both AR-based experiences using landmark tracking and GenAI-based approaches using diffusion models, with a strong focus on efficiency, scalability, inference costs, and real-world deployment.
-
-* **🤖 Agentic Systems** — Designing reliable AI workflows that can plan, retrieve information, reason across multiple steps, and execute tasks while remaining observable and production-ready.
-
-* **🎵 Generative Audio** — Exploring neural codecs, audio generation architectures, and the technologies shaping the future of AI-generated sound.
+<table>
+  <tr>
+    <td width="70">🧾</td>
+    <td>
+      <b>8bitSplit</b> — A lightweight bill-splitting app inspired by one too many dinners, trips, and group outings that ended with everyone opening calculators and arguing over who owed what. No paywalls, no unnecessary complexity, no invasive data collection.<br>
+      🔗 <a href="https://fairspl.sbs/">fairspl.sbs</a>
+    </td>
+  </tr>
+  <tr>
+    <td>📓</td>
+    <td><b>Smart Journal</b> — Semantic memory systems powered by RAG and OCR, making personal notes, journals, and thoughts searchable and conversational.</td>
+  </tr>
+  <tr>
+    <td>👕</td>
+    <td><b>Virtual Try-On Research</b> — Practical approaches for production-ready virtual try-on, spanning AR landmark tracking and GenAI diffusion-based methods, with an eye on efficiency, scalability, and real-world deployment costs.</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><b>Agentic Systems</b> — Reliable AI workflows that plan, retrieve, reason across multiple steps, and execute tasks while staying observable and production-ready.</td>
+  </tr>
+  <tr>
+    <td>🎵</td>
+    <td><b>Generative Audio</b> — Neural codecs, audio generation architectures, and the technologies shaping the future of AI-generated sound.</td>
+  </tr>
+</table>
 
 ## 🧰 Workshop & Toolbelt
 
 I rely heavily on visual thinking and note-taking to map out systems before writing code.
 
-| Skill Category | Technologies & Tools |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,docker,aws,postgres,mysql,js,git&theme=light" alt="Skills" />
+</div>
+
+| Category | Details |
 | :--- | :--- |
-| **Languages** | Python, SQL, JavaScript |
-| **Backend** | FastAPI, Flask, Docker, Django |
-| **Cloud & Infrastructure** | AWS (SageMaker, Bedrock, Glue, EMR) |
 | **AI / ML** | LLMs, RAG, Agentic Systems, Diffusion Models, Computer Vision |
 | **Data & Search** | PostgreSQL, MySQL, FAISS |
+| **Cloud** | AWS (SageMaker, Bedrock, Glue, EMR) |
 | **Visual Thinking** | Excalidraw, Obsidian |
-| **Currently Exploring** | Generative Audio, Product Design, Production AI Systems |
+| **Currently Exploring** | Product Design, Production AI Systems |
 
 ## 📊 Farm Ledger & Progress Log
 
@@ -67,24 +89,44 @@ I rely heavily on visual thinking and note-taking to map out systems before writ
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ManasB17&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ManasB17&theme=transparent&hide_border=true&background=00000000&ring=5B8A72&fire=7DCEA0&currStreakLabel=5B8A72" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManasB17&theme=gruvbox&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </div>
 
 ## 🌲 Away From The Keyboard
 
 When I'm not building software, you'll usually find me somewhere collecting stories.
 
-* 📸 Capturing slices of everyday life through photography
-* 🚶 Taking long walks with a camera and no particular destination
-* 🏔️ Exploring mountain trails, hidden roads, and new places whenever I get the chance
-* 🌊 Equally happy spending time in the mountains or near a quiet beach
-* ⚽ Playing futsal and following football
-* ⚪ Real Madrid supporter and lifelong Cristiano Ronaldo fan
-* 🏊 Swimming, running, and hiking
-* 🎸 Playing guitar when life needs a slower rhythm
-* ☕ Enjoying good coffee, good conversations, and slow evenings with friends
-* 🍺 Occasionally celebrating the end of a long week with a cold beer
-* 🎬 Watching films that stay with you long after the credits roll
+<table>
+  <tr>
+    <td>📸 Capturing slices of everyday life through photography</td>
+    <td>🚶 Long walks with a camera and no particular destination</td>
+  </tr>
+  <tr>
+    <td>🏔️ Exploring mountain trails, hidden roads, and new places</td>
+    <td>🌊 Equally happy in the mountains or near a quiet beach</td>
+  </tr>
+  <tr>
+    <td>⚽ Playing futsal and following football</td>
+    <td>⚪ Real Madrid supporter, lifelong Cristiano Ronaldo fan</td>
+  </tr>
+  <tr>
+    <td>🏊 Swimming, running, and hiking</td>
+    <td>🎸 Playing guitar when life needs a slower rhythm</td>
+  </tr>
+  <tr>
+    <td>☕ Good coffee, good conversations, slow evenings with friends</td>
+    <td>🍺 Occasionally celebrating a long week with a cold beer</td>
+  </tr>
+  <tr>
+    <td colspan="2">🎬 Watching films that stay with you long after the credits roll</td>
+  </tr>
+</table>
 
 ---
 
