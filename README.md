@@ -19,7 +19,7 @@
 |  |  |
 | :--- | :--- |
 | 🌍 **Based in** | Kathmandu, Nepal |
-| 🏢 **Currently at** | [Outcode Software](https://outcode.io) — building & optimizing AI-driven systems |
+| 🏢 **Currently at** | Outcode LLC — building & optimizing AI-driven systems |
 | 🔭 **Focus** | ML, backend engineering, retrieval systems, computer vision, agentic workflows |
 | 🌱 **Off the clock** | Side projects, documenting ideas, traveling, learning how great products are built |
 
@@ -31,25 +31,21 @@ I'm particularly drawn to products born from real experiences and everyday frust
   <tr>
     <td width="70">🧾</td>
     <td>
-      <b>8bitSplit</b> — A lightweight bill-splitting app inspired by one too many dinners, trips, and group outings that ended with everyone opening calculators and arguing over who owed what. No paywalls, no unnecessary complexity, no invasive data collection.<br>
-      🔗 <a href="https://fairspl.sbs/">fairspl.sbs</a>
+      <b>8bitSplit</b> — Proportional bill splitting with a little arcade soul: receipt scanning, item assignment, multi-bill events, and automatic settle-up. No login required.<br>
+      🔗 <a href="https://8bitsplit.app/">8bitsplit.app</a>
     </td>
   </tr>
   <tr>
-    <td>📓</td>
-    <td><b>Smart Journal</b> — Semantic memory systems powered by RAG and OCR, making personal notes, journals, and thoughts searchable and conversational.</td>
-  </tr>
-  <tr>
     <td>👕</td>
-    <td><b>Virtual Try-On Research</b> — Practical approaches for production-ready virtual try-on, spanning AR landmark tracking and GenAI diffusion-based methods, with an eye on efficiency, scalability, and real-world deployment costs.</td>
+    <td><b>Suhayo</b> — Virtual try-on for any garment: upload a photo of yourself and a garment, get back an image of you wearing it. Runs input cleanup, generation, and a restore-and-verify pass across swappable image providers. Invite-only pilot, currently paused to keep demo costs down.</td>
   </tr>
   <tr>
     <td>🤖</td>
-    <td><b>Agentic Systems</b> — Reliable AI workflows that plan, retrieve, reason across multiple steps, and execute tasks while staying observable and production-ready.</td>
+    <td><b>Campaign Agent</b> — A stateful agentic pipeline for autonomous marketing asset generation. PaaS V1, in active development.</td>
   </tr>
   <tr>
-    <td>🎵</td>
-    <td><b>Generative Audio</b> — Neural codecs, audio generation architectures, and the technologies shaping the future of AI-generated sound.</td>
+    <td>📓</td>
+    <td><b>Smart Journal</b> — Localized RAG for semantic memory retrieval — "chat with your past" — powered by Mistral OCR.</td>
   </tr>
 </table>
 
