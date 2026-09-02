@@ -19,7 +19,7 @@
 |  |  |
 | :--- | :--- |
 | 🌍 **Based in** | Kathmandu, Nepal |
-| 🏢 **Currently at** | Outcode LLC — building & optimizing AI-driven systems |
+| 🏢 **Currently at** | Outcome Software — building & optimizing AI-driven systems |
 | 🔭 **Focus** | ML, backend engineering, retrieval systems, computer vision, agentic workflows |
 | 🌱 **Off the clock** | Side projects, documenting ideas, traveling, learning how great products are built |
 
