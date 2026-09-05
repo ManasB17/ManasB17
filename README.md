@@ -1,7 +1,3 @@
-<!-- Farm Life Banner -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0cf922f0-1a2e-46fd-b0e7-612276d7e331" width="100%" alt="Manas Bhattarai - Pixel Art Banner" style="border-radius: 10px; border: 4px solid #8B4513;"/>
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B8A72&center=true&vCenter=true&width=560&lines=Building+useful+things%2C+one+season+at+a+time.;Machine+Learning+Engineer+%40+Outcode+Software;Turning+everyday+frustrations+into+products.;Currently+tending+to+RAG%2C+agents+%26+CV." alt="Typing SVG" />
